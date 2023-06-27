@@ -1,0 +1,18 @@
+[
+    {
+        "UpdateStageName": "Downloading Latest Release",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "BedrockConnect-1.0-SNAPSHOT.jar",
+        "UpdateSourceArgs": "Pugmatt/BedrockConnect",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": null,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
